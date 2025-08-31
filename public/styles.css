@@ -1,0 +1,19 @@
+button{
+    color:rgb(0, 0, 0);
+    background-color: pink;
+}
+*{
+    list-style: none;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    border:1px solid yellow;
+    padding:10px;
+    border-radius: 5px;
+    background-color: yellow;
+    font-weight: bold;
+    
+}
